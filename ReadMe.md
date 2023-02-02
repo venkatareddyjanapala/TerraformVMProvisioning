@@ -1,7 +1,9 @@
 <h1>Terraform automation to provision a GCP VM.</h1>
 <h2>Configuration</h2>
-1. credentials-demo.json: add the gcp credentials json file 
-2. Update provider terraform script with project & credentials file information
+<ol>
+<li>1. credentials-demo.json: add the gcp credentials json file</li>
+<li>2. Update provider terraform script with project & credentials file information</li>
+</ol>
 <h2>Run Configuration:</h2>
 <code>
 python3 configureVM.py
